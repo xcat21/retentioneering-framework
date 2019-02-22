@@ -63,9 +63,6 @@ instance/
 # Scrapy stuff:
 .scrapy
 
-# Sphinx documentation
-docs/_build/
-
 # PyBuilder
 target/
 
@@ -108,3 +105,4 @@ venv.bak/
 data/
 credentials/
 iappintheair-bigquery-reader.json
+.DS_Store
